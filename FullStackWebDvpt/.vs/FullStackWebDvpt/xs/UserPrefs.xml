@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AAFAF584-7232-4272-9353-7CD4A0189D79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../.gitignore.html">
+    <Files>
+      <File FileName="../index.html" Line="8" Column="22" />
+      <File FileName="../package.json" Line="9" Column="29" />
+      <File FileName="../.gitignore.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FullStackWebDvpt" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="FullStackWebDvpt" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FullStackWebDvpt FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
